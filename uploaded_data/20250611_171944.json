@@ -1,0 +1,29 @@
+{
+    "timestamp": "20250611_171944",
+    "model_used": "llava:13b",
+    "generation_time_seconds": 6.77,
+    "name": "nazreilisyam",
+    "staff_id": "7340",
+    "sector": "Governance & Operations Sector",
+    "image_path": "uploaded_data\\20250611_171944_image.png",
+    "system_version": "v1.0.0",
+    "prompt": "Old chair and not ergonomic",
+    "table_headers": [
+        "No.",
+        "Work Activity",
+        "Possible Hazard",
+        "Existing Risk Control (if any)",
+        "Severity",
+        "Recommended Control Measures"
+    ],
+    "rows": [
+        [
+            "1",
+            "Office chair use",
+            "Ergonomics",
+            "No",
+            "Low",
+            "Replace the old chair with an ergonomically designed office chair that provides lumbar support and adjustable height."
+        ]
+    ]
+}

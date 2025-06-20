@@ -1,0 +1,13 @@
+{
+    "timestamp": "20250612_105600",
+    "model_used": "llava:13b",
+    "generation_time_seconds": 6.88,
+    "name": "lala",
+    "staff_id": "0101",
+    "sector": "Technology Venture Sector",
+    "image_path": "uploaded_data\\20250612_105600_image.png",
+    "system_version": "v1.0.0",
+    "prompt": "what is this",
+    "table_headers": [],
+    "rows": []
+}
