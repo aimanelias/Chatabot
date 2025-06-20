@@ -363,7 +363,6 @@ def save_report(analysis_data, email, description, rating):
 with gr.Blocks(title="Occupational Safety and Health Chatbot") as iface:
     gr.Markdown("""
         <div style='display: flex; align-items: center; justify-content: center; gap: 15px; margin-bottom: 20px;'>
-            <img src='//upload.wikimedia.org/wikipedia/en/thumb/d/d4/MIMOS_%28Malaysian%29_Logo.png/250px-MIMOS_%28Malaysian%29_Logo.png' alt='MIMOS Logo' style='height: 50px;'>
             <div style='font-size: 24px; font-weight: bold;'>OCCUPATIONAL SAFETY AND HEALTH CHATBOT</div>
         </div>
         """)
